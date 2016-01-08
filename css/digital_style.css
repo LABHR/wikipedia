@@ -1,0 +1,15 @@
+.section { 
+  text-align: center; 
+}
+
+h1.section-heading { 
+  margin-top: 2em;
+} 
+
+.loading { 
+  margin-bottom: 1em
+} 
+
+.loading::before { 
+  content: "Loading..."
+} 
